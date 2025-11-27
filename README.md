@@ -6,9 +6,9 @@
 주어진 업무의 본질을 명확히 파악하고, 기대하는 결과에 정확히 도달하는 것을 중요하게 생각합니다.  
 단 한 줄의 코드에도 의미를 담아내며, 사용자를 위한 최고의 프론트엔드 개발자가 되고자 합니다.  
 
-### 진행 중
+### 최근 활동
 
-- 자격증  
-정보처리기사, SQLD 자격증 취득을 위해 공부 중이에요.
+차량 관리 프로젝트를 진행하고 있습니다.  
+👉 [Github repository](https://github.com/dango0812/car-maintenance-schedule)
 
 ![Mona Whisper](https://github.com/images/mona-whisper.gif)
