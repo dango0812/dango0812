@@ -8,7 +8,14 @@
 
 ### 최근 활동
 
-차량 관리 프로젝트를 진행하고 있습니다.  
+- 회기 프로젝트
+보여주기 위한 기록에서 벗어나,  
+현재의 나에게 집중하여 부족함을 찾고 채워가는 과정을 기록하는 프로젝트입니다.  
+👉 [Github repository](https://github.com/dango0812/archive)
+
+- 차량 관리 프로젝트
+그동안의 코드 경험을 담아보고,  
+FSD 아키텍처와 새로운 기술들을 채택하며 설계와 구현의 한계를 경험하는 프로젝트입니다.  
 👉 [Github repository](https://github.com/dango0812/car-maintenance-schedule)
 
 ![Mona Whisper](https://github.com/images/mona-whisper.gif)
