@@ -1,21 +1,16 @@
-### 안녕하세요. 🙇‍♂️
+<div align="center">
 
-프론트엔드 개발자 [김동규](https://dango0812.github.io/) 입니다.
+## 김동규
+#### [포트폴리오](https://dango0812.github.io/) | [블로그](https://archive-khaki-beta.vercel.app/)
+### 
+</div>
 
-사용자를 위한 따뜻한 경험에 가치를 두고, 작은 불편함도 놓치지 않고 개선합니다.  
-주어진 업무의 본질을 명확히 파악하고, 기대하는 결과에 정확히 도달하는 것을 중요하게 생각합니다.  
-단 한 줄의 코드에도 의미를 담아내며, 사용자를 위한 최고의 프론트엔드 개발자가 되고자 합니다.  
+#### [vercel/next.js](https://github.com/vercel/next.js)
+- [Add useEffectEvent to disallowed React APIs in Server Components](https://github.com/vercel/next.js/pull/88985) *(2026-01-25)*  
+→ Server Component에서 사용할 수 없는 useEffectEvent가 런타임에서만 발견되던 문제를 IDE 단계에서 감지되도록 작업했어요. (Approved, Maintainer 승인 대기 중이에요.)
 
-### 최근 활동
+#### [lucide/lucide-icons](https://github.com/lucide-icons/lucide)
+- [feat(icons): added plane-off icon](https://github.com/lucide-icons/lucide/pull/4024) *(2026-01-23)*  
+→  오픈 소스 기여를 처음으로 경험하며, 유명 라이브러리에 아이콘 추가 작업을 진행했어요. [Preview](https://lucide-axwoax57m-lucide.vercel.app/icons/plane-off)  
 
-- 회기 프로젝트  
-보여주기 위한 기록에서 벗어나,  
-현재의 나에게 집중하여 부족함을 찾고 채워가는 과정을 기록하는 프로젝트입니다.  
-👉 [Github repository](https://github.com/dango0812/archive)
-
-- 차량 관리 프로젝트  
-그동안의 코드 경험을 담아보고,  
-FSD 아키텍처 및 새로운 기술들을 경험하며 설계와 구현의 한계를 경험하는 프로젝트입니다.  
-👉 [Github repository](https://github.com/dango0812/car-maintenance-schedule)
-
-![Mona Whisper](https://github.com/images/mona-whisper.gif)
+![dango0812 GitHub stats](https://github-readme-stats.vercel.app/api?username=dango0812&show_icons=true&theme=transparent&hide_title=true)
