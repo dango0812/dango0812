@@ -11,6 +11,6 @@
 
 #### [lucide/lucide-icons](https://github.com/lucide-icons/lucide)
 - [feat(icons): added plane-off icon](https://github.com/lucide-icons/lucide/pull/4024) *(2026-01-23)*  
-→  오픈 소스 기여를 처음으로 경험하며, 유명 라이브러리에 아이콘 추가 작업을 진행했어요. [Preview](https://lucide-axwoax57m-lucide.vercel.app/icons/plane-off)  
+→  비행기 금지 `plane-off` 아이콘을 만들어 기여했어요. [Preview](https://lucide-axwoax57m-lucide.vercel.app/icons/plane-off)  
 
 ![dango0812 GitHub stats](https://github-readme-stats.vercel.app/api?username=dango0812&show_icons=true&theme=transparent&hide_title=true)
