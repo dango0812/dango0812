@@ -12,5 +12,3 @@
 #### [lucide/lucide-icons](https://github.com/lucide-icons/lucide)
 - [feat(icons): added plane-off icon](https://github.com/lucide-icons/lucide/pull/4024) *(2026-01-23)*  
 →  비행기 금지 `plane-off` 아이콘을 만들어 기여했어요. [Preview](https://lucide-axwoax57m-lucide.vercel.app/icons/plane-off)  
-
-![dango0812 GitHub stats](https://github-readme-stats.vercel.app/api?username=dango0812&show_icons=true&theme=transparent&hide_title=true)
