@@ -1,7 +1,7 @@
 <div align="center">
 
 ## 김동규
-#### [포트폴리오](https://dango0812.github.io/) | [블로그](https://archive-khaki-beta.vercel.app/)
+#### [포트폴리오](https://dong-gyu.com) | [블로그](https://blog.dong-gyu.com)
 ### 
 </div>
 
