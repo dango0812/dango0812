@@ -8,7 +8,7 @@
 ### Latest
 AI 기술을 적극 활용하여 메뉴 추천 서비스를 개발하고 있습니다.  
 `Stitch` UI framework를 기반으로 설계하고, `Gemini`와 `CodeRabbitAI`를 통해 코드 리뷰를 진행하고 있습니다.
-#### [Website](https://dong-gyu.com) | [Repository](https://github.com/dango0812/menu-recommender) | [Pull requests](https://github.com/dango0812/menu-recommender/pulls?q=is%3Apr+is%3Aclosed)
+#### [Website](https://menu.dong-gyu.com) | [Repository](https://github.com/dango0812/menu-recommender) | [Pull requests](https://github.com/dango0812/menu-recommender/pulls?q=is%3Apr+is%3Aclosed)
 
 ### Open source contribution
 부족한 실력이지만, 꾸준히 관심을 갖고 오픈소스에 기여하기 위해 노력하고 있습니다.
