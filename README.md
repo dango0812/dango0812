@@ -10,6 +10,7 @@ Improved `useEffectEvent` diagnostics, providing clearer warnings for incorrect 
 
 #### [Lucide #4024](https://github.com/lucide-icons/lucide/pull/4024)
 Added the `plane-off` icon to the Lucide icon library.
+[Demo](https://lucide.dev/icons/plane-off)
 
 ### Links
 
