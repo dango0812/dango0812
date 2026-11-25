@@ -9,8 +9,8 @@
 Improved `useEffectEvent` diagnostics, providing clearer warnings for incorrect usage in React applications.
 
 #### [Lucide #4024](https://github.com/lucide-icons/lucide/pull/4024)
-Added the `plane-off` icon to the Lucide icon library.
-[Demo](https://lucide.dev/icons/plane-off)
+Added the `plane-off` icon to the Lucide icon library.  
+[🔗 Demo](https://lucide.dev/icons/plane-off)
 
 ### Links
 
